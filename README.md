@@ -1,3 +1,3 @@
 
 ## telco-customer-churn-analysis
-this is an analysis using the pycaret package.
+Machine learning modeling using PyCaret 2.0
